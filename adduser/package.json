@@ -1,0 +1,16 @@
+{
+  "name": "adduser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.8",
+    "prompt": "^1.2.1"
+  }
+}
