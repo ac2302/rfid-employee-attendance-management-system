@@ -22,6 +22,10 @@ table {
 	margin: 40px auto;
 }
 
+th {
+	background-color: ghostwhite;
+}
+
 td,
 th {
 	padding: 10px;
