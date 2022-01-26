@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Candara";
+  src: local("Candara"),
+    url("./fonts/Candara.ttf") format("truetype");
+  font-weight: normal;
+}
+
 * {
 	margin: 0;
 	padding: 0;
