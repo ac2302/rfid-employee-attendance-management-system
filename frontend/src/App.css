@@ -1,0 +1,36 @@
+body {
+	background-color: skyblue;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px;
+	margin-top: 0;
+}
+
+button {
+	padding: 5px;
+	font-size: 19px;
+}
+
+table {
+	width: 100%;
+	max-width: 1000px;
+	border-collapse: collapse;
+	border: 2px solid black;
+	margin: 40px auto;
+}
+
+td,
+th {
+	padding: 10px;
+	border: 1px solid black;
+	font-size: 21px;
+}
+
+.present {
+	color: darkgreen;
+}
+.absent {
+	color: orangered;
+}
